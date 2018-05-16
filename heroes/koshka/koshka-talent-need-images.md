@@ -1,7 +1,7 @@
 # Koshka Talent \(need Images\)
 
 ## Rare Talent
-
+https://drive.google.com/open?id=12bCV7gP0g9FC-Vv8S-HLlUYOi-Vbqi3_
 ### Frenzied
 
 Basic attacks reduce the cooldown of Koshka's abilities.
@@ -13,7 +13,7 @@ Basic attacks reduce the cooldown of Koshka's abilities.
 | Yummy Catnip Frenzy Reduction | 5% |
 
 ## Epic Talent
-
+https://drive.google.com/open?id=1AtMIvpRJkKTS_yf0EiSMGSY_yNfex_Cd
 ### Twirly Life
 
 Twirly Death \(B\) grants Koshka additional health barrier.
